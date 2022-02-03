@@ -1,1 +1,1 @@
-# e-commerce
+$ npm install -g @angular/cli
